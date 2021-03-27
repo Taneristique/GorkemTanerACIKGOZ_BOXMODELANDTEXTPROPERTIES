@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.kutu{
+    border: 20px solid #9ea0a1;
+    display: block;
+ 
+}
+
+
+.date{
+    text-align: center;
+    color:#3498db
+
+}
+
+.header{
+    padding-left: 10px;
+}
+.paragraf{
+    margin-left:10px ;
+    padding-left: 11px;
+    font-size: 1.2em;
+    border-left: 10px  #9ea0a1 solid;
+}
+.green{
+    padding-left: 10px;
+    background-color:#3cb371;
+    margin:0 10px;
+    font-size: 1.2em;
+
+    margin-top:10px;
+}
+
+p{
+    padding-left: 10px;
+    font-size: 1.2em;
+
+}
+.underline{
+    text-decoration: #8b0000 line-through;
+}
